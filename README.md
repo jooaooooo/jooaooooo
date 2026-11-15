@@ -1,5 +1,5 @@
 <h1>JV</h1>
-
+Fala rapaziada, comecei a usar github pela minha vontade de começar a criar algo de daora, vale a pena até, espero que consiga encontrar pessoas que pensem igual
 
 
 
