@@ -1,6 +1,6 @@
 <h1>JV</h1>
 <blockquote>
-  Fala rapaziada, comecei a usar github pela minha vontade de começar a criar algo de daora, vale a pena até, espero que consiga encontrar pessoas que pensem igual
+  Fala rapaziada, comecei a usar github pela minha vontade de começar a criar algo daora, vale a pena até, espero que consiga encontrar pessoas que pensem igual
 </blockquote>
 
 
