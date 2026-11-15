@@ -21,6 +21,6 @@
 <h2>
   Só pra demonstração visual do que é feito
 </h2>
-<blockquote>
+
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)
-</blockquote>
+
