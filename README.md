@@ -7,4 +7,9 @@ também curte criar umas paradas daora.
 
 O que eu sei e to aprendendo a usar
 
-![JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    ![JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
+  </a>
+</p>
