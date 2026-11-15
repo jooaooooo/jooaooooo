@@ -9,7 +9,7 @@ O que eu sei e to aprendendo a usar
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     ![JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
   </a>
 </p>
