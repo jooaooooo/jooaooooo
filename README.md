@@ -5,11 +5,8 @@
 Vim pro GitHub pra tirar umas ideias do papel e trocar ideia com quem
 também curte criar umas paradas daora.
 
-O que eu sei e to aprendendo a usar
+<h2>
+ O que eu sei e to aprendendo a usar
+</h2>
 
-
-<p align="center">
-  <a>
-    ![JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
-  </a>
-</p>
+![</h2>JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
