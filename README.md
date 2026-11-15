@@ -1,9 +1,8 @@
-# Fala, rapaziada! JV
+ Fala, rapaziada! JV
 
 Vim pro GitHub pra tirar umas ideias do papel e trocar ideia com quem
 também curte criar umas paradas daora.
-To que
 
-##O que eu sei e to aprendendo a usar
+O que eu sei e to aprendendo a usar
 
 ![JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
