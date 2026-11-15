@@ -18,5 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
 </div>
 
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)
+<h2>
+  Só pra demonstração visual do que é feito
+</h2>
+<blockquote>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)
+</blockquote>
