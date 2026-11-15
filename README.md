@@ -2,8 +2,7 @@
  Fala, rapaziada,JV
 </h1> 
 
-Vim pro GitHub pra tirar umas ideias do papel e trocar ideia com quem
-também curte criar umas paradas daora.
+Fala rapaziada, comecei a usar github pela minha vontade de começar a criar algo daora, vale a pena até, espero que consiga encontrar pessoas que pensem igual
 
 <h2>
  O que eu sei e to aprendendo a usar
