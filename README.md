@@ -1,16 +1,9 @@
-<h1>JV</h1>
-<blockquote>
-  Fala rapaziada, comecei a usar github pela minha vontade de começar a criar algo daora, vale a pena até, espero que consiga encontrar pessoas que pensem igual
-</blockquote>
+# Fala, rapaziada! JV
 
-<h2>Algumas paradas que eu uso ou comecei a usar</h2>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-</div>
+Vim pro GitHub pra tirar umas ideias do papel e trocar ideia com quem
+também curte criar umas paradas daora.
+To que
 
-<h2>
-  
-</h2>
+##O que eu sei e to aprendendo a usar
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jooaooooo&layout=compact&langs_count=6&theme=transparent)
-
+![JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
