@@ -8,4 +8,4 @@ Fala rapaziada, comecei a usar github pela minha vontade de começar a criar alg
  O que eu sei e to aprendendo a usar
 </h2>
 
-![</h2>JavaScript, React, PostgreSQL, Docker, Git e Linux](https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux)
+<img src="https://skillicons.dev/icons?i=js,react,postgres,docker,git,linux" alt="JavaScript, React, PostgreSQL, Docker, Git e Linux" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="48" height="48" />
